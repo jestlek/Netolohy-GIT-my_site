@@ -1,4 +1,4 @@
-![Это я](https://drive.google.com/file/d/1J2wQoqwiesI0G3clbP7Gx5fdbYUcS_zw/view?usp=sharing)
+![Это я](-fLbJp0n9XY.jpg)
 
 > _Привет! :) Меня зовут Никита Иовлев. Я учусь на Python разработчика в онлайн школе Нетология!_
 <hr>
