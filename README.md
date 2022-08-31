@@ -1,4 +1,4 @@
-![Это я](../-fLbJp0n9XY.jpg)
+![Это я](https://drive.google.com/file/d/1J2wQoqwiesI0G3clbP7Gx5fdbYUcS_zw/view?usp=sharing)
 
 > _Привет! :) Меня зовут Никита Иовлев. Я учусь на Python разработчика в онлайн школе Нетология!_
 <hr>
@@ -19,8 +19,7 @@ ___
 ## Что же сейчас?
 Сейчас я работаю на фрилансе, учу английский и Python.<br>
 Я уже написал свою первую программу:<br>
-`print("Hello, World")`<br>
-
+`print("Hello, World")`
 Которая выводит текст:<br>
 > Hello, World  
 
@@ -45,4 +44,4 @@ ___
 Ну вот я и прощаюсь :) Пока и удачи<br>
 
 Моя почта:
->! jestleklow@gmail.com
+> jestleklow@gmail.com
